@@ -5,7 +5,7 @@ import { messge } from "./messgeHtml.js";
 // Placeholder for customerEmails, you need to define or load this array
 
 const customerEmails = [
-  "mutuelleesante@gmail.com"
+  ""
 ]
 
 // Precise Gmail limits for 100 emails per hour
